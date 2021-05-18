@@ -13,7 +13,7 @@ Sem IV Practical Exam
 ### Insertion Sort
 The insertion sort is used when:
 1. the array is has a small number of elements
-2.there are only a few elements left to be sorted
+2. there are only a few elements left to be sorted
 ### Selection Sort
 1. Selection sort almost always outperforms bubble sort and gnome sort.
 2. Can be useful when memory write is a costly operation.
